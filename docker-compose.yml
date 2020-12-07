@@ -1,0 +1,10 @@
+version: '3'
+services:
+  nginx:
+    image: nginx
+    container_name: hlssample
+    ports: 
+      - "80:80"
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html
+      - ./movie:/usr/share/nginx/html/movie
