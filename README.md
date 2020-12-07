@@ -24,6 +24,10 @@ AWS S3によるHLS サンプル
 - [NHKクリエイティブライブラリー](https://www2.nhk.or.jp/archives/creative/material/view.cgi?m=D0002161323_00000)
   - 動画の取得元
 
+## Github Pages
+
+[https://sampleuser0001.github.io/HLS-sample-with-AWS-S3/](https://sampleuser0001.github.io/HLS-sample-with-AWS-S3/)
+
 ## Repository
 
 [https://github.com/SampleUser0001/HLS-sample-with-AWS-S3](https://github.com/SampleUser0001/HLS-sample-with-AWS-S3)
