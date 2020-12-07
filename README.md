@@ -1,5 +1,5 @@
 # HLS-sample-with-AWS-S3
-AWS S3によるHLS サンプル
+AWS S3によるHLS サンプル。（ちょっと古い…）
 
 ## 使用するサービス
 
